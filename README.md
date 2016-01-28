@@ -14,3 +14,10 @@ How to use
 3. Hook up the Texture you get from running Connect(cameraIndex) to a UPROPERTY to prevent it from being garbage collected in your cpp somewhere (begin play might be a good place). Then check out the M_Webcamera material and the character blueprints event graphs to see an example of how you can hook up the texture to a mesh.
 
 4. Have fun!
+
+
+
+Thanks
+==================
+I was inspired a lot by this directshow project by a guy called "Limitz":
+http://www.rohitab.com/discuss/topic/34389-directshow-webcam-capture-class-c/
