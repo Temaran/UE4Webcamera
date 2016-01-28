@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Webcamera",
+	"Description": "Adds web camera support",
+	"Category": "Other",
+	"CreatedBy": "Fredrik Lindh (Temaran)",
+	"CreatedByURL": "https://github.com/Temaran/UE4Webcamera",
+	"DocsURL": "https://github.com/Temaran/UE4Webcamera",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/Temaran/UE4Webcamera",
+	"Modules": [
+		{
+			"Name": "Webcamera",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
